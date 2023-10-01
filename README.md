@@ -27,7 +27,7 @@ Este projeto apresenta um sistema de leilão que permite a criação de leilões
 1. Clone este repositório:
    ```shell
    git clone https://github.com/DaniloBronze/phpunit.git
-   ´´´shell
+   
 ## 🧪 Testes
 Os testes unitários são fornecidos para garantir que as funcionalidades do sistema funcionem conforme o esperado. Eles estão localizados no diretório tests.
 
